@@ -1,0 +1,8 @@
+C:\Users\mokgo\Desktop\CSharp\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\mokgo\Desktop\CSharp\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\mokgo\Desktop\CSharp\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\mokgo\Desktop\CSharp\Hangman\Hangman\obj\Debug\Hangman.csproj.AssemblyReference.cache
+C:\Users\mokgo\Desktop\CSharp\Hangman\Hangman\obj\Debug\Hangman.csproj.SuggestedBindingRedirects.cache
+C:\Users\mokgo\Desktop\CSharp\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\mokgo\Desktop\CSharp\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\mokgo\Desktop\CSharp\Hangman\Hangman\obj\Debug\Hangman.pdb
